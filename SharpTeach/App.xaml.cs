@@ -4,7 +4,7 @@
     {
         public App()
         {
-            InitializeComponent();
+            InitializeComponent();//new comment in our branch!!!
         }
 
         protected override Window CreateWindow(IActivationState? activationState)
